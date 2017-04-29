@@ -1,6 +1,6 @@
 # Baseball_players_salary_pred
 I tried to predict Baseball players salaries.
-Assumption: salary will be based on player's performance.
+Hypothesize : salary will be based on player's performance.
 
 ## Working Process
 - Data Crawling : got data from Statiz(http://www.statiz.com)
