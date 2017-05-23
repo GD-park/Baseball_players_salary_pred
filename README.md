@@ -1,5 +1,6 @@
 # Baseball_players_salary_pred
 I tried to predict Baseball players salaries.
+
 Hypothesize : salary will be based on player's performance.
 
 ## Working Process
